@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "Junction";
+  src: url(http://chad-oh.com/fonts/Junction.otf) format("opentype");
+}
+h2 {
+  margin:1.5em 0 .75em;
+  font:bold 78%/1.4em "Junction","Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#777;
+  }
